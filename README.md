@@ -55,10 +55,8 @@ Make sure you have the following installed on your machine:
 Git
 Node.js
 npm (Node Package Manager)
-Cloning the Repository
 
-git clone https://github.com/adrianhajdin/gsap_macbook_landing.git
-cd gsap_macbook_landing
+
 Installation
 
 Install the project dependencies using npm:
