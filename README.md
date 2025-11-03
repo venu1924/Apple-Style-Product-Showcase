@@ -1,4 +1,5 @@
  Introduction
+
 Apple-style 3D website built with React, Three.js, GSAP, and TailwindCSS! Showcase products in immersive 3D scenes, scroll-animated models, and pinned sections. Featuring responsive design, smooth timeline animations, and visually striking image transitions—perfect for developers creating interactive, modern web experiences.
 
 If you're getting started and need assistance or face any bugs, join our active Discord community with over 50k+ members. It's a place where people help each other out.
@@ -6,6 +7,7 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 
 ⚙️ Tech Stack
+
 CodeRabbit is an AI-powered code review tool that integrates with IDEs like VS Code and Git platforms such as GitHub and GitLab. It provides real-time, context-aware feedback on pull requests, including line-by-line analysis, security vulnerability detection, and adherence to coding standards. CodeRabbit learns from your team's preferences, adapting its reviews over time to enhance code quality and developer productivity.
 
 GSAP is a powerful JavaScript animation library used in this project to create dynamic, scroll-driven visuals. Features include SplitText animations for bold text reveals, ScrollTrigger for timeline control, parallax scrolling, pinned sections, scroll-synced video playback, seamless multi-section timelines, image masking effects, and a fully custom animated carousel.
@@ -23,6 +25,8 @@ Vite is a lightning-fast build tool and development server that powers this proj
 Zustand is a lightweight and flexible state management library for React. In this project, it’s used to manage global state efficiently, enabling reactive updates with minimal boilerplate. Features include simple store creation, easy state slicing, middleware support for logging and persistence, seamless integration with React components, and performant state updates without unnecessary re-renders.
 
 🔋 Features
+
+
 👉 3D Product Scene with Realistic Lighting System: Showcase products in lifelike 3D environments for maximum visual impact.
 
 👉 Animate 3D Model on Scroll: Create immersive interactions by animating 3D models based on user scroll position.
@@ -41,6 +45,8 @@ And many more, including code architecture and reusability.
 
 🤸 Quick Start
 Follow these steps to set up the project locally on your machine.
+
+
 
 Prerequisites
 
